@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f0170320-530f-4b4b-8207-4b19dec1ab98" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/USERNAME.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loginStyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/signupPage.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jZpdA0SsRhQykzt7losYhKhyGm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0170320-530f-4b4b-8207-4b19dec1ab98" name="Default Changelist" comment="" />
+      <created>1604021553201</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604021553201</updated>
+      <workItem from="1604021554462" duration="8613000" />
+      <workItem from="1604058498831" duration="1683000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="943" y="194" key="#CLI_Interpreters" timestamp="1604025631083">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="943" y="194" key="#CLI_Interpreters/0.0.1920.1040@0.0.1920.1040" timestamp="1604025631083" />
+    <state x="716" y="347" key="#Notifications" timestamp="1604062679560">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="716" y="347" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1604062679560" />
+    <state x="1070" y="182" key="#PHP" timestamp="1604057659865">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1070" y="182" key="#PHP/0.0.1920.1040@0.0.1920.1040" timestamp="1604057659865" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1604021576350">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1604021576350" />
+    <state x="1271" y="425" key="Github.ShareDialog" timestamp="1604062640913">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1271" y="425" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604062640913" />
+    <state x="1202" y="232" key="Github.UntrackedFilesDialog" timestamp="1604062652695">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1202" y="232" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604062652695" />
+    <state x="1206" y="458" key="NewPhpFileDialog" timestamp="1604026062464">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1206" y="458" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604026062464" />
+    <state x="988" y="260" key="Vcs.Push.Dialog.v2" timestamp="1604063028887">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="988" y="260" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604063028887" />
+    <state x="780" y="431" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604062561440">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="780" y="431" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604062561440" />
+    <state x="763" y="418" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1604062442743">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="763" y="418" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604062442743" />
+    <state x="1032" y="267" width="672" height="678" key="search.everywhere.popup" timestamp="1604025668152">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1032" y="267" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1604025668152" />
+  </component>
+</project>
