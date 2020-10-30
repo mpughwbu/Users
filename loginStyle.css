@@ -1,0 +1,53 @@
+{
+box-sizing: border-box;
+font-family: "Times New Roman";
+}
+h1 {
+    font-size: 2em;
+    border-image: Images/logo.png;
+}
+h2 {
+    font-size: 1.5em;
+}
+h3  {
+font-size: 1.2 em;
+}
+html, body {
+    margin: 0;
+    padding: 0;
+}
+nav-header-main {
+    background-image: url("images/earthLogo.png");
+    background-blend-mode: multiply;
+    background-size: cover;
+    padding-bottom: 30px;
+}
+header-logo {
+    display: inline-block;
+    margin: 0;
+    padding: 0 5%;
+    float: left;
+    height: 400px;
+}
+header-login {
+
+}
+wrapper-main {
+
+}
+section-default {
+
+}
+login-status {
+
+}
+form-signupPage {
+
+}
+
+.nav ul {
+    margin: 0;
+}
+.nav li {
+    display: inline;
+}

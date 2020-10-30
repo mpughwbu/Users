@@ -11,9 +11,9 @@
 
 <header>
     <nav>
-        <nav> class="nav-header-main"
+        <nav class="nav-header-main">
         <a class="header-logo" href="index.php">
-            <imp src="images/logo.png" alt="logo"
+            <imp src="Images/earthLogo.png" alt="logo" width="200" align="left"></imp>
         </a>
         <ul>
             <li><a href="index.php">Home</a></li>

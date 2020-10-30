@@ -11,17 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f0170320-530f-4b4b-8207-4b19dec1ab98" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/USERNAME.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/footer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/header.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loginStyle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/signupPage.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loginStyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/loginStyle.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +40,7 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4" />
   <component name="ProjectId" id="1jZpdA0SsRhQykzt7losYhKhyGm" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -72,6 +65,7 @@
       <updated>1604021553201</updated>
       <workItem from="1604021554462" duration="8613000" />
       <workItem from="1604058498831" duration="1683000" />
+      <workItem from="1604063800940" duration="4672000" />
     </task>
     <servers />
   </component>
@@ -88,6 +82,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="943" y="194" key="#CLI_Interpreters" timestamp="1604025631083">
@@ -98,10 +93,19 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="716" y="347" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1604062679560" />
-    <state x="1070" y="182" key="#PHP" timestamp="1604057659865">
+    <state x="1070" y="182" key="#PHP" timestamp="1604071091426">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1070" y="182" key="#PHP/0.0.1920.1040@0.0.1920.1040" timestamp="1604057659865" />
+    <state x="1070" y="182" key="#PHP/554.-768.1366.728/-812.-768.1366.728/0.0.1920.1040/1920.-489.1920.1040@0.0.1920.1040" timestamp="1604071091426" />
+    <state x="2802" y="-32" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604072750334">
+      <screen x="1920" y="-489" width="1920" height="1040" />
+    </state>
+    <state x="2802" y="-32" key="#com.intellij.fileTypes.FileTypeChooser/554.-768.1366.728/-812.-768.1366.728/0.0.1920.1040/1920.-489.1920.1040@1920.-489.1920.1040" timestamp="1604072750334" />
+    <state x="2766" y="-87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604074001018">
+      <screen x="1920" y="-489" width="1920" height="1040" />
+    </state>
+    <state x="2766" y="-87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/554.-768.1366.728/-812.-768.1366.728/0.0.1920.1040/1920.-489.1920.1040@1920.-489.1920.1040" timestamp="1604074001018" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1604021576350">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -130,9 +134,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="763" y="418" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604062442743" />
-    <state x="1032" y="267" width="672" height="678" key="search.everywhere.popup" timestamp="1604025668152">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="2952" y="-222" width="672" height="678" key="search.everywhere.popup" timestamp="1604073940577">
+      <screen x="1920" y="-489" width="1920" height="1040" />
     </state>
     <state x="1032" y="267" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1604025668152" />
+    <state x="2952" y="-222" width="672" height="678" key="search.everywhere.popup/554.-768.1366.728/-812.-768.1366.728/0.0.1920.1040/1920.-489.1920.1040@1920.-489.1920.1040" timestamp="1604073940577" />
   </component>
 </project>
