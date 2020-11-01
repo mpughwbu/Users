@@ -1,35 +1,62 @@
-{
-box-sizing: border-box;
-font-family: "Times New Roman";
+
+* {
+    box-sizing: border-box;
+    text-decoration: none;
+    text-decoration-color: white;
+
+}
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: tan;
+}
+li {
+    display: inline-block;
+    padding: 0.5em;
+    text-decoration: none;
+    text-decoration-line: none;
 }
 h1 {
     font-size: 2em;
-    border-image: Images/logo.png;
 }
 h2 {
     font-size: 1.5em;
 }
 h3  {
-font-size: 1.2 em;
+    font-size: 1.2em;
 }
-html, body {
-    margin: 0;
-    padding: 0;
-}
-nav-header-main {
-    background-image: url("images/earthLogo.png");
+
+.nav-header-main {
+    background-image: url("Images/tree.jpg");
     background-blend-mode: multiply;
     background-size: cover;
     padding-bottom: 30px;
+    text-decoration: none;
 }
-header-logo {
+.header-logo {
+    background-image: url("Images/earthLogo.jpg");
+    background-blend-mode: multiply;
     display: inline-block;
     margin: 0;
-    padding: 0 5%;
+    padding: 0;
     float: left;
     height: 400px;
 }
-header-login {
+.main-header {
+    background-image: url("Image/tree.jpg");
+    background-size: cover;
+    padding-bottom: 10px;
+}
+.section-logo {
+    background-image: url("Images/Antarctica.png");
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+    padding-bottom: 10px;
+}
+
+.header-login {
+    margin: 0;
 
 }
 wrapper-main {
@@ -45,9 +72,3 @@ form-signupPage {
 
 }
 
-.nav ul {
-    margin: 0;
-}
-.nav li {
-    display: inline;
-}

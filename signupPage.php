@@ -10,7 +10,7 @@ require "header.php";
                 <input type="text" name="uid" placeholder="Username">
                 <input type="text" name="mail" placeholder="Email">
                 <input type="password" name="pwd" placeholder="Password">
-                <input type="password" name="pwd-repeat" placeholder="Repeat Password">
+                <input type="password" name="pwd-repeat" placeholder="Repeat Password"><br>
                 <button type="submit" name="signupPage-submit">Signup</button>
             </form>
         </section>

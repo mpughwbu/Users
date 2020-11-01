@@ -14,6 +14,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/header.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/loginStyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/loginStyle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signupPage.php" beforeDir="false" afterPath="$PROJECT_DIR$/signupPage.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +49,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -65,8 +67,16 @@
       <updated>1604021553201</updated>
       <workItem from="1604021554462" duration="8613000" />
       <workItem from="1604058498831" duration="1683000" />
-      <workItem from="1604063800940" duration="4672000" />
+      <workItem from="1604063800940" duration="18626000" />
     </task>
+    <task id="LOCAL-00001" summary="add ons">
+      <created>1604074758337</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604074758337</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,11 +94,19 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add ons" />
+    <option name="LAST_COMMIT_MESSAGE" value="add ons" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="943" y="194" key="#CLI_Interpreters" timestamp="1604025631083">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="943" y="194" key="#CLI_Interpreters/0.0.1920.1040@0.0.1920.1040" timestamp="1604025631083" />
+    <state x="2472" y="-311" width="816" height="729" key="#Intentions" timestamp="1604086379901">
+      <screen x="1920" y="-489" width="1920" height="1040" />
+    </state>
+    <state x="2472" y="-311" width="816" height="729" key="#Intentions/554.-768.1366.728/-812.-768.1366.728/0.0.1920.1040/1920.-489.1920.1040@1920.-489.1920.1040" timestamp="1604086379901" />
     <state x="716" y="347" key="#Notifications" timestamp="1604062679560">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -106,6 +124,10 @@
       <screen x="1920" y="-489" width="1920" height="1040" />
     </state>
     <state x="2766" y="-87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/554.-768.1366.728/-812.-768.1366.728/0.0.1920.1040/1920.-489.1920.1040@1920.-489.1920.1040" timestamp="1604074001018" />
+    <state x="2497" y="-378" key="CommitChangelistDialog2" timestamp="1604074757543">
+      <screen x="1920" y="-489" width="1920" height="1040" />
+    </state>
+    <state x="2497" y="-378" key="CommitChangelistDialog2/554.-768.1366.728/-812.-768.1366.728/0.0.1920.1040/1920.-489.1920.1040@1920.-489.1920.1040" timestamp="1604074757543" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1604021576350">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -122,10 +144,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1206" y="458" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604026062464" />
-    <state x="988" y="260" key="Vcs.Push.Dialog.v2" timestamp="1604063028887">
+    <state x="988" y="260" key="Vcs.Push.Dialog.v2" timestamp="1604266503754">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="988" y="260" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604063028887" />
+    <state x="988" y="260" key="Vcs.Push.Dialog.v2/554.-768.1366.728/-812.-768.1366.728/0.0.1920.1040/1920.-489.1920.1040@0.0.1920.1040" timestamp="1604266503754" />
     <state x="780" y="431" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604062561440">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
